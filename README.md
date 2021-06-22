@@ -35,3 +35,5 @@ This should be done on the onCreate method
 ```java
  messageUtil.showPreviousMessages(adapter,user.getId(),[recepient id]);
 ```
+5. To know how to use the UI components of this library check the following github link:
+https://github.com/stfalcon-studio/ChatKit
