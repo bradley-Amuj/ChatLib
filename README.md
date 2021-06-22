@@ -14,7 +14,7 @@ allprojects {
 2. Add dependancy 
 ```
 dependencies {
-	    implementation 'com.github.bradley-Amuj:ChatLib:Tag'
+	    implementation 'com.github.bradley-Amuj:ChatLib:v1.0.0'
 	}
 
 ```
