@@ -1,0 +1,3 @@
+include ':ChatLib'
+include ':app'
+rootProject.name = "Chat"

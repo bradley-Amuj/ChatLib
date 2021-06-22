@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401535359444",
+    "project_id": "chattest-69f6b",
+    "storage_bucket": "chattest-69f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401535359444:android:f70c983ccf2692f87b1e41",
+        "android_client_info": {
+          "package_name": "com.bradley.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401535359444-o0kerro4g887f1d20nf9vlimuql7p2u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPRouw4sbdJTwfEofv9mqjDo35Hbfn7EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401535359444-o0kerro4g887f1d20nf9vlimuql7p2u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
